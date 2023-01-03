@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Product crud test with steps2","This will create new product","SUCCESS","2023-01-03T14:10:47.452Z[Europe/London]","0.0","0.07"
+"Product crud test with steps2","This test will Update the product information","FAILURE","2023-01-03T14:10:47.523Z[Europe/London]","0.0","0.04"
+"Product crud test with steps2","Delete the store and verify if the store is deleted!","SUCCESS","2023-01-03T14:10:47.573Z[Europe/London]","0.0","0.05"
